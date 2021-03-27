@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898839605351",
+    "firebase_url": "https://problood-793c3.firebaseio.com",
+    "project_id": "problood-793c3",
+    "storage_bucket": "problood-793c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898839605351:android:52be557c297bd37ae4e4c2",
+        "android_client_info": {
+          "package_name": "com.problood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898839605351-hu36j1di5efim1hp1h50m70nkurpgrci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZjlrwUFvrqtbc1TVMKbJiE7m85AsyLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898839605351-hu36j1di5efim1hp1h50m70nkurpgrci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
